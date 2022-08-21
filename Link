@@ -1,0 +1,11 @@
+https://www.devglan.com/spring-security/spring-boot-security-oauth2-example
+It is very important to configure this property in application.properties=
+security.oauth2.resource.filter-order=3
+
+Open Main Security File and Expalin that
+it has deallocated it resposibility of
+
+1)Defining Authorization Rules---> ResourceServer
+2)Authentication and 
+Authorization to ----------> Authorizarion Server
+ 

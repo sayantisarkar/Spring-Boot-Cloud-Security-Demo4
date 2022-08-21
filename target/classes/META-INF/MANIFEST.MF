@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: dadaram.jadhav
+Build-Jdk: 15.0.1
+Implementation-Title: Demo10003_Rest_JPA_Repository_Security_OAuth
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lkm.accenture
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Demo10003_Rest
+ _JPA_Repository_Security_OAuth/
+Created-By: Maven Integration for Eclipse
+
